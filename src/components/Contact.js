@@ -7,10 +7,7 @@ function Contact({ email }) {
     >
       <div className="row">
         <div className="col">
-          <h2 className="text">
-            {" "}
-            Contact{" "}
-          </h2>
+          <h2 className="text"> Contact: </h2>
         </div>
       </div>
       <div className="text">Feel free to reach out and say hi 👋:</div>

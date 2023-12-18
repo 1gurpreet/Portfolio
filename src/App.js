@@ -11,6 +11,9 @@ const email = "gdhillon08@gmail.com";
 function App() {
   return (
     <>
+      <div className="small-screen-message text">
+        please use a larger screen to view website.
+      </div>
       <div className="App">
         <NavBar email={email} />
         <div
