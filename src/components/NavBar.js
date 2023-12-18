@@ -2,7 +2,7 @@ import Button from "./Button";
 import Contact from "./Contact";
 
 const resumeUrl =
-  "https://docs.google.com/document/d/1t_-evKCpESdJYs-yd0N0Q7CyClTgZdPNfYGr0PmwInk/edit?usp=drive_link";
+  "https://drive.google.com/file/d/1TjSlfOf1BRqBKaIXqW8jshnrD-Um9ZJC/view?usp=drive_link";
 
 function NavBar({ email }) {
   function resume() {
