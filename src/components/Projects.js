@@ -6,11 +6,11 @@ import numpyLogo from "../logos/numpy-1.svg";
 
 function Projects() {
   return (
-    <div className="container flex-row justify-content-center align-items-center scoll-appear-animation" id="projects">
+    <div className="container d-flex flex-column  justify-content-center align-items-center scoll-appear-animation" id="projects">
       <div className="d-flex justify-content-center">
         <h1 className="text">Projects:</h1>
       </div>
-      <div className="d-flex mb-3" id="projects-layout">
+      <div className="d-flex flex-row flex-wrap justify-content-center mb-3" id="projects-layout">
         <div className="p-2">
           <a href="">
             <div className="card">

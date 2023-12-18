@@ -21,6 +21,7 @@ function App() {
           data-target="#navbar"
           data-offset="0"
           tabIndex="0"
+          data-bs-smooth-scroll="true"
         >
           <Intro />
           <About />

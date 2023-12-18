@@ -19,7 +19,8 @@ body {
 }
 
 .container {
-  height: 100vh;
+  min-height: 100vh;
+  overflow-y:unset;
 }
 
 @keyframes fadeIn {
