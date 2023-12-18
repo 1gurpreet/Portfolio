@@ -87,7 +87,7 @@ body {
 
 @media (max-width: 380px) {
   .small-screen-message {
-    visibility: visible;
+    display: block;
   }
   .App{
     visibility: hidden;
@@ -96,7 +96,7 @@ body {
 
 @media (min-width: 380px) {
   .small-screen-message {
-    visibility: hidden;
+    display: none;
   }
   .App{
     visibility: visible;
