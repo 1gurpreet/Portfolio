@@ -26,18 +26,18 @@ function Projects() {
                   the bulk of the card's content.
                 </p>
                 <hr />
-                <div class="d-flex flex-wrap justify-content-center">
-                  <div class="p-2 bd-highlight">
+                <div className="d-flex flex-wrap justify-content-center">
+                  <div className="p-2 bd-highlight">
                     {" "}
                     <img src={rpi} style={{ maxWidth: 20 + "px" }} />
                   </div>
-                  <div class="p-2 bd-highlight">
+                  <div className="p-2 bd-highlight">
                     <img src={py} style={{ maxWidth: 20 + "px" }} />
                   </div>
-                  <div class="p-2 bd-highlight">
+                  <div className="p-2 bd-highlight">
                     <img src={redis} style={{ maxWidth: 20 + "px" }} />
                   </div>
-                  <div class="p-2 bd-highlight">
+                  <div className="p-2 bd-highlight">
                     <img src={reactLogo} style={{ maxWidth: 20 + "px" }} />
                   </div>
                 </div>
@@ -54,15 +54,15 @@ function Projects() {
                 the bulk of the card's content.
               </p>
               <hr />
-              <div class="d-flex flex-wrap justify-content-center">
+              <div className="d-flex flex-wrap justify-content-center">
                 {" "}
-                <div class="p-2 bd-highlight">
+                <div className="p-2 bd-highlight">
                   <img src={rpi} style={{ maxWidth: 20 + "px" }} />
                 </div>
-                <div class="p-2 bd-highlight">
+                <div className="p-2 bd-highlight">
                   <img src={py} style={{ maxWidth: 20 + "px" }} />
                 </div>
-                <div class="p-2 bd-highlight">
+                <div className="p-2 bd-highlight">
                   <img src={numpyLogo} style={{ maxWidth: 20 + "px" }} />
                 </div>
               </div>

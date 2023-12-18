@@ -11,20 +11,20 @@ function NavBar({ email }) {
 
   return (
     <nav
-      className="navbar sticky-top navbar-expand-lg navbar-dark bg-transparent d-flex justify-content-center"
+      className="navbar sticky-top navbar-expand-sm navbar-dark bg-transparent d-flex justify-content-center"
       id="scoller"
     >
-      <ul class="nav nav-pills">
-        <li class="nav-item">
+      <ul className="nav nav-pills row justify-content-md-center">
+        <li className="nav-item col-auto">
           <Button name="About" href="#about" />
         </li>
-        <li class="nav-item">
+        <li className="nav-item col-auto">
           <Button name="Projects" href="#projects" />
         </li>
-        <li class="nav-item">
+        <li className="nav-item col-auto">
           <Button name="Contact" href="#contact" />
         </li>
-        <li class="nav-item">
+        <li className="nav-item col-auto">
           <Button name="Resume" onClick={resume} />
         </li>
       </ul>
