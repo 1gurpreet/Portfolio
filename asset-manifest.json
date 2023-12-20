@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7fd38795.css",
+    "main.css": "/portfolio/static/css/main.81da647c.css",
     "main.js": "/portfolio/static/js/main.79de7c97.js",
     "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
     "static/media/Micropython-logo.svg.png": "/portfolio/static/media/Micropython-logo.svg.20ee697cd9f66e799492.png",
@@ -10,12 +10,12 @@
     "index.html": "/portfolio/index.html",
     "static/media/python-5.svg": "/portfolio/static/media/python-5.e6d7dc739a91892bbf1f6262412046dd.svg",
     "static/media/numpy-1.svg": "/portfolio/static/media/numpy-1.208e250c6332c7bd55413a95080d228f.svg",
-    "main.7fd38795.css.map": "/portfolio/static/css/main.7fd38795.css.map",
+    "main.81da647c.css.map": "/portfolio/static/css/main.81da647c.css.map",
     "main.79de7c97.js.map": "/portfolio/static/js/main.79de7c97.js.map",
     "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fd38795.css",
+    "static/css/main.81da647c.css",
     "static/js/main.79de7c97.js"
   ]
 }
