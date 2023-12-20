@@ -2,7 +2,7 @@ function Contact({ email }) {
   console.log(email);
   return (
     <div
-      className="container d-flex flex-column align-items-center justify-content-center scoll-appear-animation"
+      className="container d-flex flex-column align-items-center justify-content-center scoll-appear-animation fadeInAnimation"
       id="contact"
     >
       <div className="row">

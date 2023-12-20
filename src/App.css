@@ -74,7 +74,19 @@ body {
 }
 
 #into-description {
-  animation-delay: 3.5s;
+  animation-delay: 3s;
+}
+
+#projects{
+  animation-delay: 3s;
+}
+
+#contacts {
+  animation-delay: 3s;
+}
+
+#about {
+  animation-delay: 3s;
 }
 
 .card {

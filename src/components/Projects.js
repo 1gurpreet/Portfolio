@@ -8,7 +8,7 @@ import microPythonLogo from "../logos/Micropython-logo.svg.png"
 function Projects() {
   return (
     <div
-      className="container d-flex flex-column  justify-content-center align-items-center scoll-appear-animation"
+      className="container d-flex flex-column  justify-content-center align-items-center scoll-appear-animation fadeInAnimation"
       id="projects"
     >
       <div className="d-flex justify-content-center">
