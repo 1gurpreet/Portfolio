@@ -24,8 +24,7 @@ function Projects() {
             <div className="card-body">
               <h5 className="card-title">Sun Position Tracking</h5>
               <p className="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+                Prototype software for solar pannels that will adjusts is orientation based on the suns position. (In Progress)
               </p>
               <hr />
               <div className="d-flex flex-wrap justify-content-center">
@@ -48,8 +47,7 @@ function Projects() {
             <div className="card-body">
               <h5 className="card-title">Farming IoT</h5>
               <p className="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+                Automating watering and sun exposure (in this case artifical sun light) of plants based on soil readings. (In Progess)
               </p>
               <hr />
               <div className="p-2 bd-highlight">
